@@ -20,7 +20,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently system design
+- 🔭 &nbsp; I’m currently learning system design
 - 🎓 &nbsp; I’m Computer Science graduete from Ain Shams unversity at Egypt
 - 💼 &nbsp; Full-Stack Software Engineer
 - ✍️ &nbsp; I enjoy reading good books or having a nice evening out with friends.
